@@ -202,4 +202,4 @@ This repository serves as the official landing page for Hexonic ScanToPDF. The s
 **Get the most recent version of Hexonic ScanToPDF today!**
 
 ---
-**Last updated:** 2026-11-11 18:27:54 UTC
+**Last updated:** 2026-11-12 01:22:30 UTC
